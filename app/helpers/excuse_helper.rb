@@ -1,0 +1,2 @@
+module ExcuseHelper
+end
